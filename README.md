@@ -31,7 +31,7 @@ Each folder represents one day of learning:
 ---
 
 ## 🎯 Goal  
-Build a strong foundation in Python + AI and start freelancing with at least **$3000/month income** in the next 2–3 months.  
+Build a strong foundation in Python + AI and start freelancing .  
 
 ---
 
